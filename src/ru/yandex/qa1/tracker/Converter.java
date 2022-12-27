@@ -2,12 +2,12 @@ package ru.yandex.qa1.tracker;
 
 public class Converter {
 
-    public double convertToKm(int steps) {
+    public int convertToKm(int steps) {
         //TODO
         return 0;
     }
 
-    public double convertStepsToKilocalories() {
+    public int convertStepsToKilocalories() {
         // TODO
         return 0;
     }
